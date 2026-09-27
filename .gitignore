@@ -4,5 +4,7 @@ target/
 !.env.example
 application-local.properties
 *.log
+fixfirst-photos/
+fixfirst-demo-photos/
 .idea/
 .DS_Store
